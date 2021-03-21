@@ -1,6 +1,12 @@
 # simple_weather
 
-A new Flutter project.
+Flutter 연습용 개인 project
+
+## feature
+
+- openweather api 이용
+- 위치정보 수집
+- 위치별 날씨 확인
 
 ## Getting Started
 
